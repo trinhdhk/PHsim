@@ -1,0 +1,9 @@
+---
+title: Local Proportional Hazard with Difference effect sizes, a case
+author: Trinh Dong
+format: html
+---
+
+This document outlines a simulation step for "local"-PH survival dataset.
+
+

@@ -1,0 +1,18 @@
+Package: PHsim
+Type: Package
+Title: Simulate Weibull with Proportional Hazard Parametrisation
+Version: 0.0.0.999
+Authors@R: c(
+    person(
+      "Trinh", "Dong",
+      email = "trinhdhk@outlook.com.vn",
+      role = c("aut", "cre")
+    )
+  )
+Description: Simulate Weibull with Proportional Hazard Parametrisation
+License: MIT
+Encoding: UTF-8
+LazyData: true
+roxygen:
+  markdown: true
+RoxygenNote: 7.3.2
