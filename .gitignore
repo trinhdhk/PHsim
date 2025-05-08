@@ -3,4 +3,4 @@
 .RData
 .Ruserdata
 case_*
-.qmd
+*.qmd

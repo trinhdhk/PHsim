@@ -7,6 +7,7 @@
 #' @param lp_cure `<numeric()>` vector of log-odds of being cured/immortal. If a scalar, everyone shares the same immortal rate
 #' @param lp_cen `<numeric()>` vector of log-hazard of dropping out. If a scalar, everyone shares the same immortal rate
 #' @return a `data.frame` with these columns: tt_ev, ev, lp
+#' @export
 sim_weibullPH <-
   function(lp,
            shape, scale,
